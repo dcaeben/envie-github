@@ -1,4 +1,4 @@
 # invie
-Las guitarras más locas
+Las guitarras más locas/proyecto para aprender Git y GitHub
 
-http://leonidasesteban.github.io/invie-responsive/
+https://dcaeben.github.io/envie-github/
